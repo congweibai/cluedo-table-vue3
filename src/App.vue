@@ -1,17 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <CluedoTable></CluedoTable>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CluedoTable from "./components/CluedoTable.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    CluedoTable,
+  },
+};
 </script>
 
 <style>

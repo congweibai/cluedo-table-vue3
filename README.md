@@ -1,5 +1,7 @@
 # cluedo-table-vue3
 
+Live <a herf="https://cluedo-table-vue3.vercel.app/">here</a>: https://cluedo-table-vue3.vercel.app/
+
 ## Project setup
 ```
 npm install
